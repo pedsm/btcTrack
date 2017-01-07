@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pedsm/btcTrack/issues"
   },
-  "homepage": "https://github.com/pedsm/btcTrack#readme"
+  "homepage": "https://github.com/pedsm/btcTrack#readme",
+  "dependencies": {
+    "osmosis": "^1.1.2"
+  }
 }
