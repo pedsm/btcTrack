@@ -1,0 +1,19 @@
+{
+  "name": "btctrack",
+  "version": "1.0.0",
+  "description": "Btc value tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedsm/btcTrack.git"
+  },
+  "author": "Pedro Mendonca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedsm/btcTrack/issues"
+  },
+  "homepage": "https://github.com/pedsm/btcTrack#readme"
+}
