@@ -4,7 +4,6 @@ util = require 'util'
 chalk = require 'chalk'
 currentPrice = 0
 prevVal = 0
-
 console.log "Starting"
 
 parse = ->
