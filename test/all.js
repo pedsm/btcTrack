@@ -1,8 +1,8 @@
 var assert = require('assert');
-describe('Array', function() {
-  describe('#indexOf()', function() {
-    it('should return -1 when the value is not present', function() {
-      assert.equal(3, 2 + 2);
+describe('Maths', function() {
+  describe('#+()', function() {
+    it('should be four', function() {
+      assert.equal(4, 2 + 2);
     });
   });
 });
